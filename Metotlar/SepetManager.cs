@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Metotlar
 {
-    class SepetManeger
+    class SepetManager
     {
 
         public void Ekle(Urun urun)

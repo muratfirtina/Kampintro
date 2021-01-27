@@ -37,7 +37,7 @@ namespace Metotlar
 
             //encapsulation
 
-            SepetManeger sepetManeger = new SepetManeger();
+            SepetManager sepetManeger = new SepetManager();
             sepetManeger.Ekle(urun1);
             sepetManeger.Ekle(urun2);
 
