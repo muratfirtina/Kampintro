@@ -21,6 +21,14 @@ namespace GenericsIntro
             }
 
             items[items.Length - 1] = item;
+
+            List<string> sehirler = new List<string>();
+            sehirler.Add("istanbul");
+            List<int> plakalar = new List<int>();
+            plakalar.Add(34);
+
         }
+
     }
+
 }
